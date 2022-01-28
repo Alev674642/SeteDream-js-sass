@@ -57,10 +57,10 @@ window.addEventListener("scroll", () => {
 
 setTimeout(() => {
   document.querySelector(".svg-title").style.opacity = 0;
-}, 300);
+}, 3000);
 
 setTimeout(() => {
   document.querySelector(".svg-title").style.background = "#ffffff00";
   document.querySelector(".svg-title").style.opacity = 1;
-}, 600);
+}, 6000);
 
